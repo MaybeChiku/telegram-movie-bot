@@ -1,7 +1,7 @@
 pyrofork==2.3.68
 tgcrypto==1.2.5
 pymongo==4.14.0
-motor==3.6.0
+motor==3.7.1
 umongo==3.1.0
 marshmallow==4.0.0
 dnspython==2.7.0
