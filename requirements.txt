@@ -1,6 +1,6 @@
 pyrofork==2.3.68
 tgcrypto==1.2.5
-pymongo==4.15.0
+pymongo==4.15.1
 motor==3.7.1
 umongo==3.1.0
 marshmallow==4.0.1
